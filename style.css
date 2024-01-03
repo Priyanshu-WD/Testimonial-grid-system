@@ -106,12 +106,12 @@
 
 body {
   background-color: var(--Bg-color);
+  min-height: 100vh;
 }
 
 .principal {
   border-radius: 20px;
   margin: 0 auto;
-  min-height: 100vh;
 }
 
 .card01 {
